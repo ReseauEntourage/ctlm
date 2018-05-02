@@ -19,4 +19,4 @@
         <script type="text/javascript" src="<?php asset_path('jquery-3.2.1.min.js'); ?>"></script>
         <script type="text/javascript" src="<?php asset_path('jquery.waypoints.min.js'); ?>"></script>
     </head>
-    </body>
+    <body>

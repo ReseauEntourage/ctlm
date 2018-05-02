@@ -13,9 +13,7 @@
             <h4><?php echo get_the_title() ?></h4>
             <p class="date"><?php echo the_date() ?></p>
             <div class="texte">
-                <p>
                 <?php the_content() ?>
-                </p>
             </div><div class="image_actu">
                  <?php $image_src = wp_get_attachment_image_src( get_post_thumbnail_id(),'full' );
                  echo '<img src="' . $image_src[0]  . '" width="100%"  />'; ?>

@@ -5,26 +5,26 @@
         <a href="http://www.publicisgroupe.com/fr/services-fr/services-publicis-communications-fr" target="_blank"><img src="<?php asset_path('images/publicis_communication.PNG'); ?>"></a>
         <p>
             Le groupe publicis a effectué la post-production du documentaire gracieusement et le promeut en interne.
-            </br></br>
+            <br/><br/>
             <a href="https://www.facebook.com/Publicis.Conseil/">https://www.facebook.com/Publicis.Conseil/</a>
         </p>
     </div><div class="image_partenaire">
         <a href="http://www.huffingtonpost.fr/" target="_blank"><img src="<?php asset_path('images/le_huffington_post.PNG'); ?>"></a>
         <p>
             Le Huffington Post est un média d’actualité en ligne. Il soutient le projet depuis le démarrage et a diffusé les vidéos en format court lors de la campagne de crowdfunding.
-            </br></br>
+            <br/><br/>
         </p>
     </div><div class="image_partenaire entourage">
         <a href="http://www.entourage.social/" target="_blank"><img src="<?php asset_path('images/logo_entourage.png'); ?>"></a>
         <p>
             L’association Entourage crée du lien social entre les riverains et les personnes SDF, grâce à une pédagogie de la rencontre et une application mobile qui permet la coordination des actions de solidarité entre voisins. L’association aide à l’organisation et à la médiatisation des projections-débats !
-            </br></br>
+            <br/><br/>
         </p>
     </div><div class="image_partenaire">
         <a href="http://www.epss-edu.com/" target="_blank"><img src="<?php asset_path('images/epss.png'); ?>"></a>
         <p>
             L’epss (École Pratique de Service Social) est une association laïque à but non lucratif qui participe à la mission de service public de formation aux métiers du travail social. L’école aide à la diffusion et à la médiatisation du film.
-            </br></br>
+            <br/><br/>
         </p>
     </div>
 

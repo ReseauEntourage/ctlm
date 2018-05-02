@@ -24,5 +24,4 @@
         get_template_part( 'accueil', get_post_format() );
 	}
 ?>
-</div>
-	<?php	get_footer(); ?>
+<?php	get_footer(); ?>

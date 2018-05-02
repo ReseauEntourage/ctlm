@@ -17,19 +17,18 @@
         </div><div class="pdi_right">
             <img src="<?php asset_path('images/kenny_loubna.jpg'); ?>">
             <p>
-                «J’ai envie de dire comment ça se passe dehors parce que les gens ils ne connaissent pas dehors.»</br>
+                «J’ai envie de dire comment ça se passe dehors parce que les gens ils ne connaissent pas dehors.»<br/>
                 Kenny
             </p>
             <p>
-                « Moi, ma seule agression c'est le sourire. J'agresse les gens avec mon sourire.»</br>
+                « Moi, ma seule agression c'est le sourire. J'agresse les gens avec mon sourire.»<br/>
                 Loubna
             </p>
             <p>
-                « On ne demande qu’à vivre, et être respecté, à essayer de s’en sortir, aller de l’avant. Comme tout le monde...»</br>
+                « On ne demande qu’à vivre, et être respecté, à essayer de s’en sortir, aller de l’avant. Comme tout le monde...»<br/>
                 Mickael
             </p>
         </div>
-    </div>
 </div>
 <script>
 $( document ).ready(function() {
