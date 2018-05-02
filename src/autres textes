@@ -23,7 +23,7 @@
 <div class="personnages">
     <div class="perso">
         <div class="image">
-            <img src="wp-content/themes/ctlm/images/kenny.JPG">
+            <img src="<?php asset_path('images/kenny.JPG'); ?>">
         </div>
        <div class="texte">
            <p>
@@ -43,12 +43,12 @@
             </p>
         </div>
         <div class="image">
-            <img src="wp-content/themes/ctlm/images/mickael.JPG"> 
+            <img src="<?php asset_path('images/mickael.JPG'); ?>">
         </div>
     </div>
     <div class="perso">
         <div class="image">
-            <img src="wp-content/themes/ctlm/images/loubna.JPG"> 
+            <img src="<?php asset_path('images/loubna.JPG'); ?>">
         </div>
         <div class="texte">
             <p>

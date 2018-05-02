@@ -22,7 +22,7 @@
     </ul>
 </div>
 <div class="menu">
-    <a href="index.php"><img class="logo" src="wp-content/themes/ctlm/images/logo.png"></a>
+    <a href="index.php"><img class="logo" src="<?php asset_path('images/logo.png'); ?>"></a>
     <ul>
         <li><a href="index.php" <?php if ($_GET['page']=='medias' or $_GET['page']=='actualites' or $_GET['page']=='partenaires' or $_GET['page']=='projections' or $_GET['page']=='filmequipe' or $_GET['page']=='webserie' or $_GET['page']=='contact'){ }else {echo 'class="active"';} ?>>Accueil</a></li>
         <li><a href="/?page=filmequipe" <?php if ($_GET['page']=='filmequipe'){ echo 'class="active"';} ?>>Le film et l'équipe</a></li>

@@ -11,8 +11,8 @@
             Durant trois ans, nous avons accompagné Kenny, Loubna et Mickael sur leurs lieux de vie, de survie, d’errance, en journée, en soirée, durant la nuit. Nous avons cherché à être à leur écoute, sans jugement, à hauteur d’homme. Avec le temps, la confiance s’installant, ils nous ont confié les aspects plus intimes de leur vie. Le déroulement de ce documentaire suit donc un fil chronologique en même temps qu’il approfondit le propos de ces jeunes .
         </p>
     </div><div class="dip_right">
-        <img src="wp-content/themes/ctlm/images/dip1.JPG">
-        <img src="wp-content/themes/ctlm/images/mickael.JPG">
+        <img src="<?php asset_path('images/dip1.JPG'); ?>">
+        <img src="<?php asset_path('images/mickael.JPG'); ?>">
     </div>
     <h3>L'équipe</h3>
     <h4>Julien Billion, auteur, producteur</h4>
@@ -27,7 +27,7 @@
     <p class="description">Compositeur de musique de films de fiction, membre du groupe HOMA.</p>
     <h4>David Manson, traducteur</h4>
     <div class="image_equipe">
-        <img src="wp-content/themes/ctlm/images/equipe.JPG">
+        <img src="<?php asset_path('images/equipe.JPG'); ?>">
         <p>Julien Billion, Philippe Dinh, Patrick Muller</p>
     </div>
 </div>

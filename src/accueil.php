@@ -15,7 +15,7 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le point de départ de notre documentaire est la thèse en sociologie de Julien écrite sur les jeunes sans domicile. Nous avons rencontré trois jeunes qu'il connaissait depuis une dizaine d'années : Kenny, Loubna et Mickael, amis de longues dates. Ils se sont rencontrés près du centre Beaubourg, ce quartier étant le lieu où ils se retrouvaient parfois, au fil des rencontres, des amours et des galères qui ponctuaient leur quotidien.
             </p>
         </div><div class="pdi_right">
-            <img src="wp-content/themes/ctlm/images/kenny_loubna.jpg">
+            <img src="<?php asset_path('images/kenny_loubna.jpg'); ?>">
             <p>
                 «J’ai envie de dire comment ça se passe dehors parce que les gens ils ne connaissent pas dehors.»</br>
                 Kenny

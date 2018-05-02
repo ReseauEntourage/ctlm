@@ -1,4 +1,19 @@
-<?php add_theme_support( 'post-thumbnails' ); 
+<?php add_theme_support( 'post-thumbnails' );
+?>
+<?php
+  /*** CUSTOM FUNCTIONS ***/
+
+  function root_url() {
+    echo esc_url(home_url('/'));
+  }
+
+  function asset_path($path) {
+    echo esc_url(path_join('/wp-content/themes/'.get_template(), $path));
+  }
+
+  function asset_url($path) {
+    echo esc_url(path_join(get_template_directory_uri(), $path));
+  }
 ?>
 <?php
 register_post_type(
