@@ -11,7 +11,7 @@
         <meta property="og:type" content="website" />
         <meta property="og:title" content="<?php bloginfo( 'name' ); ?>" />
         <meta property="og:description" content="<?php bloginfo( 'description' ); ?>" />
-        <meta property="og:image"  content="<?php asset_url('images/fb-sharing.png'); ?>" />
+        <meta property="og:image"  content="<?php asset_url('images/fb-sharing.jpg'); ?>" />
 
         <link rel="stylesheet" href="<?php asset_path('font-awesome.min.css'); ?>" type="text/css"/>
         <link rel="stylesheet" href="<?php asset_path('reset.css'); ?>" type="text/css"/>
