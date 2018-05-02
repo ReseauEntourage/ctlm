@@ -20,8 +20,14 @@
             L’association Entourage crée du lien social entre les riverains et les personnes SDF, grâce à une pédagogie de la rencontre et une application mobile qui permet la coordination des actions de solidarité entre voisins. L’association aide à l’organisation et à la médiatisation des projections-débats !
             </br></br>
         </p>
+    </div><div class="image_partenaire">
+        <a href="http://www.epss-edu.com/" target="_blank"><img src="wp-content/themes/ctlm/images/epss.png"></a>
+        <p>
+            L’epss (École Pratique de Service Social) est une association laïque à but non lucratif qui participe à la mission de service public de formation aux métiers du travail social. L’école aide à la diffusion et à la médiatisation du film.
+            </br></br>
+        </p>
     </div>
-    
+
     <h3>Et le soutien de</h3>
     <div class="image_soutien">
         <a href="http://www.touscoprod.com/" target="_blank"><img src="wp-content/themes/ctlm/images/touscoprod.PNG"></a>
