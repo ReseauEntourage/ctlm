@@ -1,0 +1,20 @@
+version: '3.1'
+
+services:
+
+  wordpress:
+    build:
+      context: .
+    ports:
+      - 8080:80
+    restart: always
+    environment:
+      WORDPRESS_DB_PASSWORD: dUYSm9c4
+    volumes:
+      - ./src:/var/www/html/wp-content/themes/ctlm
+
+  mysql:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: dUYSm9c4
+      MYSQL_DATABASE: wordpress
