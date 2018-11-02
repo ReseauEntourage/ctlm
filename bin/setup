@@ -8,4 +8,6 @@ bin/wp core install \
   --admin_email=admin@example.org \
   --skip-email
 
-bin/wp plugin install --activate all-in-one-wp-migration
+# WP CLI support was removed from the free version in v6.78
+# https://wordpress.org/plugins/all-in-one-wp-migration/#developers
+bin/wp plugin install --activate all-in-one-wp-migration --version=6.77

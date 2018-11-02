@@ -16,8 +16,6 @@
 	    get_template_part( 'projections', get_post_format() );
 	} else if ($_GET['page']=='filmequipe'){
 	    get_template_part( 'filmequipe', get_post_format() );
-	} else if ($_GET['page']=='webserie'){
-	    get_template_part( 'webserie', get_post_format() );
 	} else if ($_GET['page']=='contact'){
 	    get_template_part( 'contact', get_post_format() );
 	} else {

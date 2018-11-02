@@ -10,6 +10,10 @@ services:
     restart: always
     environment:
       WORDPRESS_DB_PASSWORD: dUYSm9c4
+      WORDPRESS_CONFIG_EXTRA: |
+        @ini_set( 'upload_max_filesize' , '128M' );
+        @ini_set( 'post_max_size', '128M');
+        @ini_set( 'memory_limit', '256M' );
     volumes:
       - ./src:/var/www/html/wp-content/themes/ctlm
 
